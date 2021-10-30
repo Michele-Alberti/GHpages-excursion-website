@@ -36,6 +36,14 @@ a {
 }
 
 /* SECTIONS */
+/* Disclaimer */
+#camp-image {
+    max-width: 896px;
+    min-width: 300px;
+    width: 100%;
+    height: auto;
+}
+
 /* Coming Soon */
 .coming-soon {
     margin-top: 1rem;
